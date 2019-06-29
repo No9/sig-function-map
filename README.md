@@ -6,6 +6,8 @@ Send SIGUSR2 to stop updating the map.
 
 The function map will be stored in `/tmp/perf-$PID.map`
 
+[![CircleCI](https://circleci.com/gh/No9/sig-function-map.svg?style=svg)](https://circleci.com/gh/No9/sig-function-map)
+
 ### install
 
 ```

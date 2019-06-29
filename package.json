@@ -1,6 +1,6 @@
 {
   "name": "sig-function-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to generate function maps using linux-perf and SIGUSR",
   "main": "index.js",
   "scripts": {

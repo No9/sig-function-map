@@ -1,0 +1,30 @@
+{
+  "name": "sig-function-map",
+  "version": "1.0.0",
+  "description": "A library to generate function maps using linux-perf and SIGUSR",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap tests/test-*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No9/sig-function-map.git"
+  },
+  "keywords": [
+    "linux",
+    "perf",
+    "ebpf"
+  ],
+  "author": "anton whalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/No9/sig-function-map/issues"
+  },
+  "homepage": "https://github.com/No9/sig-function-map#readme",
+  "devDependencies": {
+    "tap": "^14.3.1"
+  },
+  "dependencies": {
+    "linux-perf": "^0.2.0"
+  }
+}
